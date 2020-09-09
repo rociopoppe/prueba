@@ -1,3 +1,4 @@
 class persona {
 name : pepe
+apellido: all
 }
